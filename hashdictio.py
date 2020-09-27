@@ -4,7 +4,7 @@ import hashlib
 made by frenchvlad from paris
 """
 def main():
-    with open("rockyou.txt") as f:
+    with open("password.txt") as f:
         #for line in f:
             #line = line.strip()
         algorithm = input("Select the algorithm (md5/sha1) : ")
